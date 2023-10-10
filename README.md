@@ -43,4 +43,7 @@ Here are the 5 steps to create a chatbot in Flask from scratch:
 -  Chacun à son linge
 
 
-##            Resultats ?
+##            Resultats 
+
+![Screenshot](Capture d'écran 2023-10-11 001850.png)
+
