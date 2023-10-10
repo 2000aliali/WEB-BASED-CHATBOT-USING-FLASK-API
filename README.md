@@ -8,7 +8,7 @@ The dataset we will be using is ‘data.json’. This is a JSON file that contai
 
 The project requires you to have good knowledge of Python, Keras, and Natural language processing (NLTK). Along with them, we will use some helping modules which you can download using the python-pip command.
 
-##pip install tensorflow 
+#pip install tensorflow 
 #pip install keras 
 #pip install pickle
 #pip install nltk
