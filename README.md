@@ -1,15 +1,22 @@
-# WEB-BASED-CHATBOT-USING-FLASK-APIIn 
-this Python web-based project with source code, we are going to build a chatbot using deep learning and flask techniques. The chatbot will be trained on the dataset which contains categories (intents), pattern and responses. We use a special artificial neural network (ANN) to classify which category the user’s message belongs to and then we will give a random response from the list of responses.
+# Web-Based Chatbot Using Flask API
 
-chatbot using Flask, NLTK, Keras, Python, etc.
+This Python web-based project with source code demonstrates how to build a chatbot using deep learning and Flask techniques. The chatbot is trained on a dataset containing categories (intents), patterns, and responses. It utilizes an artificial neural network (ANN) to classify the user's message category and provides a random response from a list of responses.
 
+## Technologies Used
+- Python
+- Flask
+- NLTK (Natural Language Toolkit)
+- Keras
 
-The dataset we will be using is ‘data.json’. This is a JSON file that contains the patterns we need to find and the responses we want to return to the user.
+## Project Overview
 
-The project requires you to have good knowledge of Python, Keras, and Natural language processing (NLTK). Along with them, we will use some helping modules which you can download using the python-pip command.
+The heart of this project is the `data.json` file, which contains predefined patterns and responses. We use this data to train our chatbot. The project involves using Python, Keras, and Natural Language Processing (NLTK) along with some additional modules.
 
-#pip install tensorflow 
-#pip install keras 
-#pip install pickle
-#pip install nltk
-#pip install flask
+To get started, make sure to install the required dependencies using `pip`:
+
+```bash
+pip install tensorflow
+pip install keras
+pip install pickle
+pip install nltk
+pip install flask
