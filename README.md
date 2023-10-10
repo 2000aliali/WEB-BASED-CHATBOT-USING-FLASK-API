@@ -35,9 +35,9 @@ model.h5 – This is the trained model that contains information about the model
 app.py – This is the flask Python script in which we implemented web-based GUI for our chatbot. Users can easily interact with the bot.
 Here are the 5 steps to create a chatbot in Flask from scratch:
 
--1.Import and load the data file
--2.Preprocess data
--3.split the data into training and test
+- 1.Import and load the data file
+- 2.Preprocess data
+- 3.split the data into training and test
 -4.Build the ANN model using keras
 -5.Predict the outcomes
 -6.Deploy the model in the Flask app
