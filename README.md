@@ -47,8 +47,7 @@ Here are the 5 steps to create a chatbot in Flask from scratch:
 
 Resultats
 
-![Screenshot](WEB-BASED-CHATBOT-USING-FLASK-API
-/Capture d'écran 2023-10-11 001850.png)
+![Screenshot](https://github.com/2000aliali/WEB-BASED-CHATBOT-USING-FLASK-API/blob/main/Capture%20d'%C3%A9cran%202023-10-11%20001850.png)
 
 
 
